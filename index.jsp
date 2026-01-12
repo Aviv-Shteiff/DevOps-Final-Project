@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h2>DevOps Project - Aviv Group</h2>
+    <h2>DevOps Project - VERSION 2</h2>
     
     <form action="">
         Enter text: <input type="text" name="data">
